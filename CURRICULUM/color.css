@@ -1,0 +1,46 @@
+#Primaria {
+	border: solid 5px #4A3C29;
+	padding:  5px;
+	margin: 0 auto;
+	width: 85%;
+	background: #B8AC8E;
+}
+#Principal {
+	border: solid 5px #7B5D33;
+	background: #F5DEB3;
+}
+fieldset {
+	margin-bottom: 10px;
+	border: solid 5px #8B6838;
+	background: #FFFACD;
+}
+legend {
+	border: solid 3px #8B6838;
+	padding: 10px;
+	font-weight: bold;
+	background: #DFC78B;
+}
+#FotoPerfil {
+	border: solid 6px #5E4727;
+	background: #5E4727;
+	margin: 2px;
+}
+#Curriculum {
+	padding: 10px;
+	margin: 20px;
+}
+body {
+	background: url(wallpaper.jpg);
+}
+h1 {
+	padding: 15px;
+	margin: 5px;
+}
+h3 {
+	padding: 10px;
+	margin: 5px;
+}
+h4 {
+	padding: 10px;
+	margin: 5px;
+}
